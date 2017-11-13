@@ -1,0 +1,18 @@
+p {
+  color: green;
+}
+
+a:hover {
+  background: pink;
+  color: magenta;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+
+
+.disp > li {
+  display: inline-block;
+}
